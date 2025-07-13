@@ -11,9 +11,9 @@ drawings, layer-art dividers, ect. So if there is a node on the other side of th
 to plug down into, it might be more efficient to select them both and let it auto link, instead of 
 dragging across the screen. 
 
-Find more ToonBoom scripts at https://gumroad.com/lizadesya
+Find more ToonBoom scripts at https://github.com/LizaDesya/toonboom-scripts
 Contact me through LizaDesya.com
-To see more of my work, follow @LizaDesya on Instagram and Twitter
+To see more of my work, follow @LizaDesya on Instagram
 
 */
 

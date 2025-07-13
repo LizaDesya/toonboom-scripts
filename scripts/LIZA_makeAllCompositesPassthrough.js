@@ -6,9 +6,9 @@ Simply run the script, and it will search throughout the entire scene and change
 Best for changing composites to Passthrough mode.
 You can edit which node type and attribute it changes down below.
 
-Find more ToonBoom scripts at https://gumroad.com/lizadesya
+Find more ToonBoom scripts at https://github.com/LizaDesya/toonboom-scripts
 Contact me through LizaDesya.com
-To see more of my work, follow @LizaDesya on Instagram and Twitter
+To see more of my work, follow @LizaDesya on Instagram
 
 */
 

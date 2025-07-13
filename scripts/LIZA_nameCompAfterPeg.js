@@ -9,9 +9,9 @@ the script will fail. By running the script, a slightly altered peg's name will 
 If you wish to change the alteration, look at the "addedSyntax" and "removedSyntax" variables under
 LIZA_nameCompAfterPeg(). 
 
-Find more ToonBoom scripts at https://gumroad.com/lizadesya
+Find more ToonBoom scripts at https://github.com/LizaDesya/toonboom-scripts
 Contact me through LizaDesya.com
-To see more of my work, follow @LizaDesya on Instagram and Twitter
+To see more of my work, follow @LizaDesya on Instagram
 
 */
 
